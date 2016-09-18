@@ -1,0 +1,25 @@
+
+.message {
+  font-size: 1.3em;
+  font-weight: bold;
+}
+
+.messageError {
+  color: red;
+}
+
+.messageOK {
+  color: lightgreen;
+}
+
+.txtOK {
+  border-color: lightgreen;
+  outline: none;
+  box-shadow: 0 0 10px lightgreen;
+}
+
+.txtERROR {
+  border-color: red;
+  outline: none;
+  box-shadow: 0 0 10px red;
+}
