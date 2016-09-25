@@ -1,0 +1,27 @@
+.emptyMessage {
+  font-weight: bold;
+  color: red;
+  font-size: 1.2em;
+}
+
+button > span {
+  color: green;
+}
+
+.glyphicon-remove {
+  color: red;
+}
+
+.table>tbody>tr>td,
+.table>tbody>tr>th,
+.table>tfoot>tr>td,
+.table>tfoot>tr>th,
+.table>thead>tr>td,
+.table>thead>tr>th {
+  vertical-align: middle;
+}
+
+td.empty {
+  text-align: center;
+  color:red;
+}
